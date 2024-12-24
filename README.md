@@ -1,1 +1,1 @@
-# Generating_Paintings_from_Photos
+# Generating Paintings from Photos
