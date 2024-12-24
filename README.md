@@ -9,7 +9,6 @@ This repository contains a Generative Adversarial Network (GAN) implementation t
 - [Dataset](#dataset)
 - [Training](#training)
 - [Visualization](#visualization)
-- [License](#license)
 
 ## Features
 
